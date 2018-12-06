@@ -1,10 +1,8 @@
 [![Build Status](https://travis-ci.org/CSTR-Edinburgh/merlin.svg?branch=master)](https://travis-ci.org/CSTR-Edinburgh/merlin)
 
-## Merlin: The Neural Network (NN) based Speech Synthesis System
+## Merlin: The Neural Network (NN) based Singing synthesiss System
 
-This repository contains the Neural Network (NN) based Speech Synthesis System  
-developed at the Centre for Speech Technology Research (CSTR), University of 
-Edinburgh. 
+
 
 Merlin is a toolkit for building Deep Neural Network models for statistical parametric speech synthesis. 
 It must be used in combination with a front-end text processor (e.g., Festival) and a vocoder (e.g., STRAIGHT or WORLD).
